@@ -1,4 +1,4 @@
-# 修改D:\StableDiffusion\ComfyUI_mimicmotion_8191\ComfyUI\custom_nodes\ComfyUI-SaveAsScript目录下comfyui_to_python_utils.py文件
+# 修改ComfyUI\custom_nodes\ComfyUI-SaveAsScript目录下comfyui_to_python_utils.py文件
 
 	修改内容如图所示
 	![image](https://github.com/user-attachments/assets/67f4dfbf-dab7-4f3f-baa7-568d52be64b1)
